@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-MYSQL-Client/static/css/main.cf8cb218.css",
+    "main.js": "/React-MYSQL-Client/static/js/main.ed8e6daf.js",
+    "index.html": "/React-MYSQL-Client/index.html",
+    "main.cf8cb218.css.map": "/React-MYSQL-Client/static/css/main.cf8cb218.css.map",
+    "main.ed8e6daf.js.map": "/React-MYSQL-Client/static/js/main.ed8e6daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8cb218.css",
+    "static/js/main.ed8e6daf.js"
+  ]
+}
